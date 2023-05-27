@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Jaapokki';
+    src: url('../font/Jaapokki-Regular.eot');
+    src: url('../font/Jaapokki-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Jaapokki-Regular.woff2') format('woff2'),
+        url('../font/Jaapokki-Regular.woff') format('woff'),
+        url('../font/Jaapokki-Regular.ttf') format('truetype'),
+        url('../font/Jaapokki-Regular.svg#Jaapokki-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Glacial Indifference';
+    src: url('../font/GlacialIndifference-Bold.eot');
+    src: url('../font/GlacialIndifference-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/GlacialIndifference-Bold.woff2') format('woff2'),
+        url('../font/GlacialIndifference-Bold.woff') format('woff'),
+        url('../font/GlacialIndifference-Bold.ttf') format('truetype'),
+        url('../font/GlacialIndifference-Bold.svg#GlacialIndifference-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../font/Poppins-ExtraBold.eot');
+    src: url('../font/Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Poppins-ExtraBold.woff2') format('woff2'),
+        url('../font/Poppins-ExtraBold.woff') format('woff'),
+        url('../font/Poppins-ExtraBold.ttf') format('truetype'),
+        url('../font/Poppins-ExtraBold.svg#Poppins-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('../font/Muli.eot');
+    src: url('../font/Muli.eot?#iefix') format('embedded-opentype'),
+        url('../font/Muli.woff2') format('woff2'),
+        url('../font/Muli.woff') format('woff'),
+        url('../font/Muli.ttf') format('truetype'),
+        url('../font/Muli.svg#Muli') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Light.eot');
+    src: url('../font/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+        url('../font/Roboto-Light.woff2') format('woff2'),
+        url('../font/Roboto-Light.woff') format('woff'),
+        url('../font/Roboto-Light.ttf') format('truetype'),
+        url('../font/Roboto-Light.svg#Roboto-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('../font/Muli-Regular.eot');
+    src: url('../font/Muli-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Muli-Regular.woff2') format('woff2'),
+        url('../font/Muli-Regular.woff') format('woff'),
+        url('../font/Muli-Regular.ttf') format('truetype'),
+        url('../font/Muli-Regular.svg#Muli-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../font/Montserrat-Bold.eot');
+    src: url('../font/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Montserrat-Bold.woff2') format('woff2'),
+        url('../font/Montserrat-Bold.woff') format('woff'),
+        url('../font/Montserrat-Bold.ttf') format('truetype'),
+        url('../font/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('../font/Muli-Light.eot');
+    src: url('../font/Muli-Light.eot?#iefix') format('embedded-opentype'),
+        url('../font/Muli-Light.woff2') format('woff2'),
+        url('../font/Muli-Light.woff') format('woff'),
+        url('../font/Muli-Light.ttf') format('truetype'),
+        url('../font/Muli-Light.svg#Muli-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../font/Montserrat-Regular.eot');
+    src: url('../font/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Montserrat-Regular.woff2') format('woff2'),
+        url('../font/Montserrat-Regular.woff') format('woff'),
+        url('../font/Montserrat-Regular.ttf') format('truetype'),
+        url('../font/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Glacial Indifference';
+    src: url('../font/GlacialIndifference-Regular.eot');
+    src: url('../font/GlacialIndifference-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/GlacialIndifference-Regular.woff2') format('woff2'),
+        url('../font/GlacialIndifference-Regular.woff') format('woff'),
+        url('../font/GlacialIndifference-Regular.ttf') format('truetype'),
+        url('../font/GlacialIndifference-Regular.svg#GlacialIndifference-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../font/Poppins-SemiBold.eot');
+    src: url('../font/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Poppins-SemiBold.woff2') format('woff2'),
+        url('../font/Poppins-SemiBold.woff') format('woff'),
+        url('../font/Poppins-SemiBold.ttf') format('truetype'),
+        url('../font/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Regular.eot');
+    src: url('../font/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Roboto-Regular.woff2') format('woff2'),
+        url('../font/Roboto-Regular.woff') format('woff'),
+        url('../font/Roboto-Regular.ttf') format('truetype'),
+        url('../font/Roboto-Regular.svg#Roboto-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
