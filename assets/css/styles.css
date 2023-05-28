@@ -145,9 +145,11 @@ hr.new1{
 
 }
 .first-section{
+    display: flex;
+    align-items: center;
+    gap: 70px;
     max-width: 1920px;
     margin-top: 135px;
-    display: flex;
 }
 .first-section h5 {
     font-size: 40px;
@@ -159,9 +161,7 @@ hr.new1{
     color: #DAAE19;
     font-family: 'Muli';
     margin-top: 6px;
-}
-.left-section{
-    margin-top: 83px;
+    margin-left: 300px;
 }
 h6{
     max-width: 334px;
@@ -182,24 +182,10 @@ button{
     margin-top: 60px;
     margin-left: 150px;
 }
-.first-section{
-    max-width: 1920px;
-    max-height: 913px;
-}
-.left-section{
-    margin-right: 65.55px;
-}
-.left-section a{
-    margin-left: 310px;
-}
 .img-section img{
    width: 430px;
    height: 603px;
-   margin-right: 250px;
-}
-.skill-section{
-    margin-top: 59px;
-    margin-left: -170px;
+   align-items: center;
 }
 .skillbar-wrapper {
     margin: 1.5em auto;
@@ -239,4 +225,23 @@ button{
   .boostrap .skillbar-bar {
     background: #E93656;  
   }
-  
+  .cube-section {
+    display: flex;
+    gap: 24.79px;
+    margin-top: 500px;
+    margin-left: -380px;
+  }
+  .cube-section p{
+    width: 50px;
+    height: 50px;
+    padding: 14px 14px 14px 16px;
+    font-size: 14.60px;
+    color: #6B6B6B;
+    border-style: solid;
+    background-color: #F9F9F9;
+    border-color:#F9F9F9;
+  }
+  .cube3:hover{
+    background-color: #15263E;
+    transition: 0.7s;
+  }
