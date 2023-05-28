@@ -144,3 +144,99 @@ hr.new1{
    margin-top: 10px;
 
 }
+.first-section{
+    max-width: 1920px;
+    margin-top: 135px;
+    display: flex;
+}
+.first-section h5 {
+    font-size: 40px;
+    color: #222222;
+    font-family: 'GlacialIndifference-Bold';
+}
+.first-section a{
+    font-size: 14px;
+    color: #DAAE19;
+    font-family: 'Muli';
+    margin-top: 6px;
+}
+.left-section{
+    margin-top: 83px;
+}
+h6{
+    max-width: 334px;
+    max-height: 149px;
+    font-size: 15px;
+    color: #555555;
+    opacity: 1;
+    font-family:'Muli-Regular';
+    margin-top: 33px;
+    margin-left: 85px;
+}
+button{
+    padding: 20px 52px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: #E93656;
+    border: #E93656;
+    margin-top: 60px;
+    margin-left: 150px;
+}
+.first-section{
+    max-width: 1920px;
+    max-height: 913px;
+}
+.left-section{
+    margin-right: 65.55px;
+}
+.left-section a{
+    margin-left: 310px;
+}
+.img-section img{
+   width: 430px;
+   height: 603px;
+   margin-right: 250px;
+}
+.skill-section{
+    margin-top: 59px;
+    margin-left: -170px;
+}
+.skillbar-wrapper {
+    margin: 1.5em auto;
+    width: 300px;
+  }
+  .skillbar-title {
+    font-size:20px;
+    color: #555555;
+    font-family:'GlacialIndifference-Bold';
+    margin-bottom: 15px;
+  }
+  .skillbar-title span{
+    color:#E93656
+  }
+  .skillbar {
+    position:relative;
+    margin-bottom: 15px;
+    width: 100%;
+    background: #F0F0F0;
+    height: 9px; 
+  }
+  .skillbar-bar {
+    height: 9px;
+    width: 0%;
+    transition: 500ms linear;
+    transition-property: width, background-color;
+  }
+  .html .skillbar-bar {
+    background: #E93656;  
+  }
+  .css .skillbar-bar {
+    background: #E93656;  
+  }
+  .javascript .skillbar-bar {
+    background: #E93656;
+  }
+  .boostrap .skillbar-bar {
+    background: #E93656;  
+  }
+  
